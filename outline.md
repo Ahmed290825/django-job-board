@@ -26,6 +26,14 @@ Blog:
    
 contact 
 home
+
+
+URL
+VIEWS 
+MODELS 
+DB
+MODELS
+TEMPLATES
         
     
     
