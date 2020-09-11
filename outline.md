@@ -28,12 +28,12 @@ contact
 home
 
 
-URL
-VIEWS 
-MODELS 
-DB
-MODELS
-TEMPLATES
+URL : Path
+VIEW : Logic
+MODELS : DB
+DB 
+MODELS : DB
+TEMPLATES : frontend
         
     
     
