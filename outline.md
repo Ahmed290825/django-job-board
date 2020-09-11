@@ -34,7 +34,10 @@ MODELS : DB
 DB 
 MODELS : DB
 TEMPLATES : frontend
-        
-    
+
+Relations:
+    - one to many [user posts]  Foreignkey
+    - many to many [users groups] 
+    - one to one [user account]  
     
        
